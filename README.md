@@ -11,3 +11,6 @@ Todo:
 - [ ] on finding differences, flag it as changed
 - [ ] store the info about changes to a file
 - [ ] generate pretty diff and tweet the changes
+
+
+Inspire by https://github.com/j-e-d/NYTdif
